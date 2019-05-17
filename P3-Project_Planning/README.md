@@ -24,4 +24,4 @@ https://www.pivotaltracker.com/n/projects/2343852
 
 (Include a link to your project on GitHub)
 
-https://github.com/CrossbreedSarah/AppointmentTracker
+https://github.com/CrossbreedSarah/LadyJanesApp
